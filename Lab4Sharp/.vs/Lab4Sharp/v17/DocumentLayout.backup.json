@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{7FE77EBD-34A4-4CF0-A33E-9CE8D83AD121}|Lab4Sharp\\Lab4Sharp.csproj|c:\\users\\admin\\source\\repos\\lab4csharp25-pavlova-polina\\lab4sharp\\lab4sharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FE77EBD-34A4-4CF0-A33E-9CE8D83AD121}|Lab4Sharp\\Lab4Sharp.csproj|solutionrelative:lab4sharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE77EBD-34A4-4CF0-A33E-9CE8D83AD121}|Lab4Sharp\\Lab4Sharp.csproj|c:\\users\\admin\\source\\repos\\lab4csharp25-pavlova-polina\\lab4sharp\\lab4sharp\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE77EBD-34A4-4CF0-A33E-9CE8D83AD121}|Lab4Sharp\\Lab4Sharp.csproj|solutionrelative:lab4sharp\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +30,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\lab4csharp25-Pavlova-Polina\\Lab4Sharp\\Lab4Sharp\\Task1.cs",
+              "RelativeDocumentMoniker": "Lab4Sharp\\Task1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\lab4csharp25-Pavlova-Polina\\Lab4Sharp\\Lab4Sharp\\Task1.cs",
+              "RelativeToolTip": "Lab4Sharp\\Task1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:29:01.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\lab4csharp25-Pavlova-Polina\\Lab4Sharp\\Lab4Sharp\\Program.cs",
               "RelativeDocumentMoniker": "Lab4Sharp\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\lab4csharp25-Pavlova-Polina\\Lab4Sharp\\Lab4Sharp\\Program.cs",
               "RelativeToolTip": "Lab4Sharp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAkwFoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T19:05:22.276Z",
               "EditorCaption": ""
